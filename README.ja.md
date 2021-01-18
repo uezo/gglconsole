@@ -4,6 +4,8 @@ GGLConsoleはコマンドライン上でGoogle / Bing検索するためのツー
 
 [🇬🇧README in English is here](https://github.com/uezo/gglconsole/blob/master/README.ja.md)
 
+![Web search on console](https://github.com/uezo/gglconsole/blob/main/gglconsole/resources/gglconsole.png)
+
 # インストール
 
 ```bash

@@ -4,6 +4,8 @@ GGLConsole provides you the command line interface for websearch by Google / Bin
 
 [🇯🇵日本語のREADMEはこちら](https://github.com/uezo/gglconsole/blob/master/README.ja.md)
 
+![Web search on console](https://github.com/uezo/gglconsole/blob/main/gglconsole/resources/gglconsole.png)
+
 # Installation
 
 ```bash
