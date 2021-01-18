@@ -1,1 +1,1 @@
-from gglconsole import gglconsole
+from gglconsole.gglconsole import main
